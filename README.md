@@ -9,6 +9,7 @@ Repository containing portfolio of data science projects completed by me for aca
   - ### Machine Learning Algorithms From Scratch
   - ### Machine Learning Projects
   - ###  Natural Language Processing
+  - ### Deep Neural Network Projects(AI)
   
    
   
