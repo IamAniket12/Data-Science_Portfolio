@@ -5,11 +5,11 @@
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter Notebook.
 
 ## Contents
-  - ### Data Analysis And Visualization
+  - ### Data Analysis 
   - ### Machine Learning Algorithms From Scratch
   - ### Machine Learning Projects
-  - ###  Natural Language Processing
   - ### Deep Neural Network Projects(AI)
+  - ### Data Visualization And Cleaning
   
    
   
