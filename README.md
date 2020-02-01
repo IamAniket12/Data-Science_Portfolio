@@ -16,6 +16,11 @@ Repository containing portfolio of data science projects completed by me for aca
        - [Support Vector Machine From Scratch](https://github.com/IamCoderAniket/Machine_Learning_Algorithm-s_from_scratch/blob/master/SVM_from_Scratch.ipynb): Created Support Vector Machine  from scratch and created hyperplane with help of support vectors.
        - [K Nearest Neighbour(KNN) From Scratch](https://github.com/IamCoderAniket/Machine_Learning_Algorithm-s_from_scratch/blob/master/K%20Nearest%20Neighbors%20from%20Scratch.ipynb): Created K Nearest Neighbour (KNN) Algorithm  from scratch with help of euclidean distance.
   - ### Machine Learning Projects
+      - [ML with Logistic Regression](https://github.com/IamCoderAniket/Machine_Learning_Projects/blob/master/Machine%20Learning%20with%20Logistic%20Regression.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
+       - [ML with Linear Regression](https://github.com/IamCoderAniket/Machine_Learning_Projects/blob/master/Machine%20Learning%20with%20Linear%20Regression.ipynb): Using Linear Regression to predict whether an customer use mobile app or store website to buy product based on time spent on these. 
+       - [ML with K Nearest Neighbours](https://github.com/IamCoderAniket/Machine_Learning_Projects/blob/master/ML%20with%20K%20Nearest%20Neighbors.ipynb): Using KNN to classify instances from a fake dataset into two target classes, while choosing the best value for K using the elbow method.
+        - [ML with Support Vector Machine](https://github.com/IamCoderAniket/Machine_Learning_Projects/blob/master/ML%20with%20Support%20Vector%20Machines.ipynb): Using Support Vector Machine to classify flowers from a famous iris dataset set into diffrent categories.
+      
   - ### Deep Neural Network Projects(AI)
   - ### Data Visualization And Cleaning
   
