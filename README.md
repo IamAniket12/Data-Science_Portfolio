@@ -6,7 +6,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Contents
   - ### Data Analysis 
-      - [IPL Dataset Analysis](https://github.com/IamCoderAniket/Data_Analysis_and_visualization/blob/master/Ipl_data_analysis.ipynb)
+      - [IPL Dataset Analysis](https://github.com/IamCoderAniket/Data_Analysis_and_visualization/blob/master/Ipl_data_analysis.ipynb): Performing data cleaning,Analysis and visualization operation on ipl dataset and answering questions 
   - ### Machine Learning Algorithms From Scratch
   - ### Machine Learning Projects
   - ### Deep Neural Network Projects(AI)
