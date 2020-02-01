@@ -27,7 +27,8 @@ Repository containing portfolio of data science projects completed by me for aca
        - [Automatic text Generation By Neural Network](https://github.com/IamCoderAniket/Deep_Neural_Networks-AI-/blob/master/Automatic_Text_Generation_Neural_Network.ipynb): Created a Recurrence Neural Network With LSTM layer that will Automatically write text based on there previous text.
        - [CNN On Fashion Dataset](https://github.com/IamCoderAniket/Deep_Neural_Networks-AI-/blob/master/Fashion_data_Neural_Net.ipynb): Created a Convolution Neural Network on fashion dataset provided by MNIST.
   - ### Data Visualization And Cleaning
-  
+      - [Data Cleaning Operations](https://github.com/IamCoderAniket/Data-Cleaning/blob/master/Data_Cleaning.ipynb): Performed Some data cleaning strategy and operation's on multiple dataset.
+      - [Data Animation and visualization](https://github.com/IamCoderAniket/DataVisualization):Performed data visualization operation by matplotlib,seaborn libraries on multiple data set's.
    
   
 
