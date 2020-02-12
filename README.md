@@ -29,7 +29,7 @@ Repository containing portfolio of data science projects completed by me for aca
   - ### Data Visualization And Cleaning
       - [Data Cleaning Operations](https://github.com/IamCoderAniket/Data-Cleaning/blob/master/Data_Cleaning.ipynb): Performed Some data cleaning strategy and operation's on multiple dataset.
       - [Data Animation and visualization](https://github.com/IamCoderAniket/DataVisualization):Performed data visualization operation by matplotlib,seaborn libraries on multiple data set's.
-      - [additional projects](https://www.linkedin.com/posts/aniket-dixit-82b647125_when-your-system-also-like-dorameon-python-activity-6423607541040799744-5AWL): virtual keyboard
+      - [Virtual Keyboard](https://www.linkedin.com/posts/aniket-dixit-82b647125_first-look-of-my-virtual-keyboard-activity-6423617476097077248-yiDT): virtual keyboard
       
       
       
